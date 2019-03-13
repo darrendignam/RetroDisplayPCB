@@ -34,3 +34,11 @@ Various SparkFun libraries:
 * https://github.com/sparkfun/SparkFun-Eagle-Libraries
     
 All of these are easy to find either in the library manager, or from the github pages for these projects. The sparkfun link has further great information for using Eagle and custom libraries installing them, everything. So I won't try and replicate that here!
+
+
+# License Information
+This library is released under the [Creative Commons ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/). You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device, you email us with a link to the product being sold. It would be great to see where this project goes, and will perhaps feature it on the website.
+
+Together we can help the open-source hardware community continue to thrive and grow!
+
+This project uses the 1206 LED footprint and some other helpful parts from the SparkFun projects listed above to help with the project. None of them were modified, they were used as-is.
